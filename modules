@@ -1,4 +1,4 @@
 GLUON_SITE_FEEDS='ffol'
 
 PACKAGES_FFOL_REPO=https://github.com/freifunkrothenburg/packages-gluon.git
-#PACKAGES_FFOL_COMMIT=1685ea946ce6c6e38101f4a86b9ca4523d17dbdf
+#PACKAGES_FFOL_COMMIT=2285b396455bd5bce9149c7f90636c808b315d3d
